@@ -1,1 +1,14 @@
+Hello,
 
+Via this link (https://metabase.sky.pro/question/88231) you can find my SQL term paper and below just a couple words what I have done and what resulut I achived there.
+
+My task is to simulate the change in student balances. The balance is the number of lessons each student has.
+
+To check if everything is OK with our data, to make a list of hypotheses and questions, it is important for us to understand:
+
+- how many lessons were on the balance ** of all students ** for each calendar day;
+- how this amount changed under the influence of transactions (payments, accruals, corrective write-offs) and lessons (write-offs from the balance as lessons go through).
+
+I also wanted to create a table where there will be balances ** of each student** for each day.
+
+The result is a query that collects data on students' balances for each day they have lived.
