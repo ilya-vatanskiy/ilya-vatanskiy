@@ -1,1 +1,8 @@
-HELLO 
+Hello,
+A course project in which I needed to calculate the unit economy of the product and propose a scenario for setting parameters to reach a 25 percent marginality. 
+
+To reach this, I needed tp calculate such parameters as Life time (LT), Unit price, Life Time Revenue (LTR), Customer Acquisition Cost (CAC) and some other marketing metrics.
+
+Then, using not difficult Excell formulas I created a column "to be" and "Changes" where adding new values I could see changes applicable for marginality.
+
+It was also important to visualize which users, where and to what extent watch movies on the platform.
