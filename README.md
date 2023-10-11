@@ -18,6 +18,10 @@ Data Analyst
 Skypro school
 Moscsow, Russia
 
+While lerning new things in Skypo I faced a lot of interesting projects I managed to work on. Some of them were quite usefull, such as unit economy-calculator, you can find this project in the Folder Term Paper.
+
+Other exiting thing was SQL, you can also find it under sepate folder under name "SQL Term Paper"
+
 ## Core Skills
 
 Strong working skills in
