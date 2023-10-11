@@ -1,6 +1,6 @@
 Hello,
 
-Via this link (https://metabase.sky.pro/question/88231) you can find my SQL term paper and below just a couple words what I have done and what resulut I achived there.
+Via the TXT file in this folder you can find my SQL term paper and below just a couple words what I have done and what resulut I achived there.
 
 My task is to simulate the change in student balances. The balance is the number of lessons each student has.
 
